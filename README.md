@@ -1,12 +1,38 @@
-# React + Vite
+# 📝 Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Todo List web application built with React and Tailwind CSS.  
+แอปพลิเคชันรายการสิ่งที่ต้องทำ (Todo List) สร้างขึ้นด้วย React และตกแต่งด้วย Tailwind CSS
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features / ฟีเจอร์
 
-## Expanding the ESLint configuration
+- ✅ Add new todos (เพิ่มรายการใหม่)
+- ❌ Delete todos (ลบรายการ)
+- 🎨 Random background color for each todo item (สุ่มสีพื้นหลังของแต่ละรายการ)
+- 💾 React `useState` for state management (จัดการข้อมูลด้วย useState)
+- 📱 Responsive design (รองรับการแสดงผลบนมือถือและเดสก์ท็อป)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Live Demo
+
+🔗 [View the app on Netlify](https://todolist-color-box.netlify.app/)  
+ดูตัวอย่างแอป: [คลิกที่นี่เพื่อใช้งาน](https://todolist-color-box.netlify.app/)
+
+---
+
+## 🛠️ Tech Stack / เทคโนโลยีที่ใช้
+
+- ⚛️ React.js (Vite)
+- 💨 Tailwind CSS
+- 🟨 JavaScript (ES6+)
+
+---
+
+## 🧑‍💻 How to Run / วิธีใช้งานบนเครื่อง
+
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/your-username/TodoList-Color-Box.git
+   cd TodoList-Color-Box
