@@ -34,5 +34,8 @@ A simple Todo List web application built with React and Tailwind CSS.
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/TodoList-Color-Box.git
+   git clone https://github.com/Phsithzz/TodoList-Color-Box.git
    cd TodoList-Color-Box
+   npm intsall
+   npm run dev
+   
